@@ -20,7 +20,6 @@ Gem::Specification.new do |s|
     "README.markdown",
     "Rakefile",
     "VERSION",
-    "VERSION_HISTORY.txt",
     "about.yml",
     "assets/api_keys_template",
     "geokit-rails.gemspec",
